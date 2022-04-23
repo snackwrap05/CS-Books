@@ -1,2 +1,1 @@
-# statistic
-collecting books, papers and docs.
+# CS-Books
